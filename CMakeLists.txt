@@ -7,7 +7,7 @@ add_subdirectory(external/glfw)
 add_subdirectory(external/glm)
 add_subdirectory(external/glbinding)
 
-add_executable(${PROJECT_NAME} src/main.cpp)
+add_executable(${PROJECT_NAME} src/main.cpp src/shaderLoader.cpp)
 
 # Notice for idiots like me:
 # these need to be after the add_executable()
