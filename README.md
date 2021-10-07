@@ -11,4 +11,10 @@ mkdir build
 cd build
 cmake ../.
 ```
-### and build as normal (linux: run make; MinGW: run make, VS: open project file and.. build? i dont know)
+### and build as normal
+\
+linux: run make;
+\
+MinGW: run make;
+\
+VS: open project file and.. build? i dont know)
