@@ -17,4 +17,4 @@ linux: run make;
 \
 MinGW: run make;
 \
-VS: open project file and.. build? i dont know)
+VS: open project file and.. build? (i dont know)
