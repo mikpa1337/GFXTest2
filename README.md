@@ -14,12 +14,11 @@ mkdir build
 cd build
 cmake ../.
 ```
-#### Build as normal
-\
+### Build as normal
 linux: run make;
 \
 MinGW: run make;
 \
 VS: open project file and.. build? (i dont know)
 
-#### Afterwards, please move the shaders folder to where the executable is
+### Afterwards, please move the shaders folder to where the executable is
