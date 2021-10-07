@@ -1,1 +1,7 @@
 build/
+
+configure.bat
+# because im running on windows
+# all that script would do is run 
+# cmake . -B ./build/ -G "MinGW Makefiles"
+# pause
